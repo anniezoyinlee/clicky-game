@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans");
+
+.App {
+  text-align: center;
+}
+
+div {
+  margin-bottom: 3%;
+  font-family: "Josefin Sans", cursive;
+}
+
+.images {
+  background-color: rgba(255, 255, 255, 0.404);
+  border-radius: 2%;
+  padding: 2%;
+  margin: 5% 0% 5% 0;
+}
+
+.title {
+   font-size: 450%;
+   color: rgb(250, 143, 170);
+}
+
+.score {
+  font-size: 220%;
+}
+
+.container {
+  padding: 10%;
+  background-image: url("./assets/images/background.png");
+  background-size: 150%;
+}
